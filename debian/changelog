@@ -1,3 +1,26 @@
+python-gssapi (1.9.0-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream release.
+
+ -- Colin Watson <cjwatson@debian.org>  Sun, 06 Oct 2024 17:30:40 +0100
+
+python-gssapi (1.8.3-1) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Use versioned copyright format URI.
+  * Update copyright file header to use current field names (Name ⇒
+    Upstream-Name, Maintainer ⇒ Upstream-Contact)
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository-Browse.
+
+  [ Colin Watson ]
+  * Team upload.
+  * New upstream release:
+    - Fix Cython 3 compatibility (LP: #2064089).
+  * Add missing "Files: *" to copyright file.
+
+ -- Colin Watson <cjwatson@debian.org>  Fri, 17 May 2024 11:28:41 +0100
+
 python-gssapi (1.8.2-1) unstable; urgency=medium
 
   * New upstream version 1.8.2

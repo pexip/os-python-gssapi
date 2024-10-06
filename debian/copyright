@@ -1,8 +1,9 @@
-Format-Specification: http://svn.debian.org/wsvn/dep/web/deps/dep5.mdwn?op=file&rev=135
-Name: python-gssapi
-Maintainer: Robbie Harwood (frozencemetery) <rharwood@club.cc.cmu.edu>
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Source: https://github.com/pythongssapi/python-gssapi
+Upstream-Name: python-gssapi
+Upstream-Contact: Robbie Harwood (frozencemetery) <rharwood@club.cc.cmu.edu>
 
+Files: *
 Copyright: 2014 The Python GSSAPI Team
 License: ISC
 
